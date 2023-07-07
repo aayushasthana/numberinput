@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/numberinput/static/css/main.ab02a1f8.css",
+    "main.js": "/numberinput/static/js/main.63e43c2f.js",
+    "static/js/787.fc3559e9.chunk.js": "/numberinput/static/js/787.fc3559e9.chunk.js",
+    "index.html": "/numberinput/index.html",
+    "main.ab02a1f8.css.map": "/numberinput/static/css/main.ab02a1f8.css.map",
+    "main.63e43c2f.js.map": "/numberinput/static/js/main.63e43c2f.js.map",
+    "787.fc3559e9.chunk.js.map": "/numberinput/static/js/787.fc3559e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab02a1f8.css",
+    "static/js/main.63e43c2f.js"
+  ]
+}
